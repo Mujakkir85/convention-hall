@@ -1,0 +1,9 @@
+.btn-background{
+    background-color: #FFFFFF;
+    color: #3F87F5;
+    border-radius: 5px;
+    padding: 0 20px;
+    border: 2px solid #FFFFFF;
+    font-size: 20px;
+    align-items: center;
+}
